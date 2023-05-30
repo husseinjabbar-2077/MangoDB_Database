@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "6469b7d3dfba36743618d474"
+  },
+  "title": "الأديان",
+  "table": "religions"
+},
+{
+  "_id": {
+    "$oid": "6469b858dfba36743618d475"
+  },
+  "title": "أعلام",
+  "table": "information"
+},
+{
+  "_id": {
+    "$oid": "6469b874dfba36743618d476"
+  },
+  "title": "ٱلتَّاريخ",
+  "table": "History"
+},
+{
+  "_id": {
+    "$oid": "6469b884dfba36743618d477"
+  },
+  "title": "تقانة",
+  "table": "technology"
+},
+{
+  "_id": {
+    "$oid": "6469b899dfba36743618d478"
+  },
+  "title": "طب",
+  "table": "medicina"
+},
+{
+  "_id": {
+    "$oid": "6469b8aadfba36743618d479"
+  },
+  "title": "طب",
+  "table": "math"
+}]
